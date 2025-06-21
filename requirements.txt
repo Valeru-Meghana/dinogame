@@ -1,0 +1,6 @@
+streamlit>=1.33.0
+opencv-python
+mediapipe
+numpy
+Pillow
+pygame  # Optional, only if you're using it for sound (can be omitted if not used)
